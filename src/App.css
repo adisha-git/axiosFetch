@@ -1,0 +1,18 @@
+.col-4 {
+  width: 25%;
+  float: left;
+}
+
+@media screen and (max-width: 991px) {
+  .col_6_sm {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .col_12_xs {
+    width: 100% !important;
+  }
+}
+
+

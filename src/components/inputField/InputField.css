@@ -1,0 +1,11 @@
+.inputWrapper input {
+  width: 100%;
+  height: 40px;
+  border-radius: 2px;
+  border: 1px solid #cccccc;
+  padding-left: 10px;
+}
+.inputWrapper input:focus {
+    border-color: #000000;
+    outline: none;
+  }
